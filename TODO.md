@@ -8,3 +8,11 @@ http://pythonbooks.revolunet.com/
 ??
 =====
 * [Concurrency Anti-patterns in Scala](http://www.youtube.com/watch?v=dCEZDlH1ygo)
+
+
+
+??
+===
+* public interface should be super clear
+* creation separate from use
+* context, data, algorithm, processor/executor
