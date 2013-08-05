@@ -16,3 +16,4 @@ http://pythonbooks.revolunet.com/
 * public interface should be super clear
 * creation separate from use
 * context, data, algorithm, processor/executor
+* declarative is more readable than imperative
