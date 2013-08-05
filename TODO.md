@@ -14,6 +14,6 @@ http://pythonbooks.revolunet.com/
 ??
 ===
 * public interface should be super clear
-* creation separate from use(business logic)
+* separate creation (factory, builder, provider)from use (business logic)
 * context, data, algorithm, processor/executor
 * declarative is more readable than imperative
