@@ -15,3 +15,4 @@ http://pythonbooks.revolunet.com/
 > "The only way to go fast is to go well" - *Uncle Bob*
 
 * "When in doubt, leave it out" http://www.infoq.com/articles/API-Design-Joshua-Bloch
+* Pragmatic Programmer tips http://pragprog.com/the-pragmatic-programmer/extracts/tips
