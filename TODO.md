@@ -16,3 +16,4 @@ http://pythonbooks.revolunet.com/
 
 * "When in doubt, leave it out" http://www.infoq.com/articles/API-Design-Joshua-Bloch
 * Pragmatic Programmer tips http://pragprog.com/the-pragmatic-programmer/extracts/tips
+* Things Every Programmer Should Know http://www.javacodegeeks.com/2010/12/things-every-programmer-should-know.html
