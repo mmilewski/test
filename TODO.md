@@ -18,6 +18,14 @@ Tips and Practices
 * Pragmatic Programmer tips http://pragprog.com/the-pragmatic-programmer/extracts/tips
 * Things Every Programmer Should Know http://www.javacodegeeks.com/2010/12/things-every-programmer-should-know.html
 
+Testing
+=======
+* OO Design for Testability http://www.youtube.com/watch?v=acjvKJiOvXw (Miško Hevery, 2009)
+    * new operators inside object,
+    * global state, 
+    * Law of Demeter violation
+* The Deep Synergy Between Testability and Good Design http://vimeo.com/15007792 (Michael Feathers, 2010)
+    * Testing issues explained as design issues
 
 Architecture
 ============
