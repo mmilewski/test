@@ -25,7 +25,7 @@ Testing
     * global state, 
     * Law of Demeter violation
 * The Deep Synergy Between Testability and Good Design http://vimeo.com/15007792 (Michael Feathers, 2010)
-    * Testing issues explained as design issues
+    * Testing is Easy in the Presence of Good Design - testing issues explained as design issues
 
 Architecture
 ============
