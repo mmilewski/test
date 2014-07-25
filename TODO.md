@@ -47,3 +47,7 @@ Algorithms
 Learn you more Java
 ===================
 * http://www.programcreek.com/java-tutorials/
+
+Machine Learning
+================
+* A Few Useful Things to Know about Machine Learning http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
