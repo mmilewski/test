@@ -35,9 +35,10 @@ Design Patterns
 * Design patterns in real life http://www.codeproject.com/Articles/29036/Patterns-in-Real-Life
 * Examples of design patterns http://stackoverflow.com/questions/1673841/examples-of-gof-design-patterns
  
-
 * The Architecture of Open Source Applications http://aosabook.org/en/index.html
   * ZeroMQ http://aosabook.org/en/zeromq.html
+
+* Designing and Deploying Internet-Scale Services https://www.usenix.org/legacy/events/lisa07/tech/full_papers/hamilton/hamilton_html/ (James Hamilton)
 
 Algorithms
 ==========
