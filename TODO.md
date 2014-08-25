@@ -47,6 +47,7 @@ Algorithms & Data Structures
 * Ropes: an Alternative to Strings http://www.cs.rit.edu/usr/local/pub/jeh/courses/QUARTERS/FP/Labs/CedarRope/rope-paper.pdf
 * Data Structures and Algorithms for Data-Parallel
 Computing in a Managed Runtime http://axel22.github.io/resources/docs/my_thesis.pdf
+* A Persistent Union-Find Data Structure http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.79.8494&rep=rep1&type=pdf
 
 Learn you more Java
 ===================
