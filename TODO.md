@@ -30,6 +30,14 @@ Testing
 Architecture
 ============
 
+Philosophy
+* Optimize for **deletability** http://vimeo.com/108441214 by Greg Young
+   * You cannot create the first model right and making a change in model that does not work is hard (and error prone). So if you could rewrite the module from scratch quickly, you can have a better model and solve problem more easily.
+   * Microservices, Actors, SOA, Objects,... are all the same concept. Read Alan Key who said about "small computers exchanging messages".
+   * Small programs are not a new concept, see Linux - you can rewrite ls, grep, cp and others in a week or two.
+   * Reading big, interconnected codebases takes weeks, months, or years. Hence it takes a lot of time for a new person to start contributing.
+   * SOA in Dutch means what STD means in English.
+
 Design Patterns
 * Design patterns Stories http://www.programcreek.com/java-design-patterns-in-stories/
 * Design patterns in real life http://www.codeproject.com/Articles/29036/Patterns-in-Real-Life
